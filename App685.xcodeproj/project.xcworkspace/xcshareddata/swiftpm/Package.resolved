@@ -1,0 +1,24 @@
+{
+  "originHash" : "3e345c144b30012aae5bd7ba5b479a50654679750d1f32d412013ecb86f5babc",
+  "pins" : [
+    {
+      "identity" : "apphudsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apphud/ApphudSDK",
+      "state" : {
+        "revision" : "8b0a05fabec1a202b4ea716391c40caf5bd3fb1a",
+        "version" : "3.4.0"
+      }
+    },
+    {
+      "identity" : "metrica-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yandexmobile/metrica-sdk-ios",
+      "state" : {
+        "revision" : "13d8b11181a33938ef42759d49466a621df5e7db",
+        "version" : "4.5.2"
+      }
+    }
+  ],
+  "version" : 3
+}
